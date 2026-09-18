@@ -1,8 +1,8 @@
 title: "Tim Biesbrouck"
 author: "Tim Biesbrouck"
 description: "KU Leuven & UGent"
-url: "https://margauxdelporte.github.io"
-baseurl: "/TimBiesbrouck.github.io"
+url: "https://timbiesbrouck.github.io"
+baseurl: ""
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
