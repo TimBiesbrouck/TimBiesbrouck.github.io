@@ -12,9 +12,21 @@ title: "Awards & Honors"
   gtag('config', 'G-P52QC73R53');
 </script>
 
-## Awards & Grants
+## International Awards
 
-* **Grant / Award Title** (Year)<br>
-  *Awarding Organization / Institution*<br>
-  Description of the award or grant.
+* **Best Oral Communication Award** (2025)<br>
+  *European Geriatric Medicine Society Congress — Reykjavik, Iceland*
 
+* **Audience Award for Best Oral Communication** (2025)<br>
+  *European Geriatric Medicine Society Congress — Reykjavik, Iceland*
+
+## National & Regional Awards
+
+* **Prize for Best Oral Presentation on Clinical Scientific Research** (2026)<br>
+  *Belgian Society for Gerontology and Geriatrics 49th Wintermeeting — Gent, Belgium*
+
+* **Prize for Best Oral Presentation on Clinical Scientific Research** (2025)<br>
+  *Belgian Society for Gerontology and Geriatrics 48th Wintermeeting — Gent, Belgium*
+
+* **Juliette Vander Schueren Prijs** (2024)<br>
+  *UZ Leuven Award for Best Quality Improvement Project in Clinical Practice*
