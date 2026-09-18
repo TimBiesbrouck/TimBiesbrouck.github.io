@@ -18,11 +18,19 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    outputs:
+      pages_enabled: ${{ steps.pages_status.outputs.enabled }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Setup Pages
+        id: pages
+        continue-on-error: true
         uses: actions/configure-pages@v5
+      - name: Detect Pages availability
+        id: pages_status
+        if: always()
+        run: echo "enabled=${{ steps.pages.outcome == 'success' }}" >> "$GITHUB_OUTPUT"
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
@@ -32,6 +40,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
 
   deploy:
+    if: needs.build.outputs.pages_enabled == 'true'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
