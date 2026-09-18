@@ -12,11 +12,11 @@ title: ""
   gtag('config', 'G-P52QC73R53');
 </script>
 
-![Mgx Round](https://github.com/MargauxDelporte/MargauxDelporte.github.io/assets/51527029/c41a0d2b-9b65-4370-b157-eed7ec8d7be7)
+<img src="{{ '/assets/img/tim_profile.jpg' | relative_url }}" alt="Tim Biesbrouck" style="border-radius: 50%; max-width: 250px; height: auto;" />
 
-## Margaux Delporte
+## Tim Biesbrouck
 
-Dr. Margaux Delporte is an Assistant Professor in Biostatistics at the Department of Public Health at the University of Rhode Island. Her research focuses on joint modeling, longitudinal data analysis, high-dimensional data, and false discovery rate control. She received her Ph.D. in Biostatistics from KU Leuven in Belgium, where her doctoral work focused on joint models for complex longitudinal data, and completed postdoctoral research at Cornell University.
+Tim Biesbrouck is a Resident in Geriatric Medicine at University Hospitals Leuven and a PhD candidate (Joint PhD KU Leuven / UGent) at the Department of Public Health (KU Leuven) and Department of Internal Medicine and Pediatrics (UGent). His research focuses on care in the last days of life on acute geriatric wards, exploring different perspectives on the dying process and pharmacological symptom management.
 
 
 

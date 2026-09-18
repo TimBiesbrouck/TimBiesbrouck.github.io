@@ -26,25 +26,30 @@ title: "Personal"
 .personal-images {
   display: flex;
   flex-wrap: wrap;
-  gap: 10px;
+  gap: 15px;
   justify-content: center;
+  margin-top: 20px;
 }
 .personal-images img {
-  max-width: 20%;
+  max-width: 30%;
+  min-width: 200px;
   height: auto;
   border-radius: 8px;
+  object-fit: cover;
 }
 </style>
 
 <div class="personal-container">
 
 <p>
-On a personal note, I enjoy running, hiking and nature.  
-In 2025, I completed the New York City Marathon and I am currently training for the 2026 edition.
+On a personal note, I love travelling, history, and hiking.
 </p>
 
-  <img src="https://github.com/user-attachments/assets/f3fde5e8-99ca-45eb-8007-cab17a33693b" alt="image" />
-  <img src="https://github.com/user-attachments/assets/418164ed-e191-4b19-89ad-b119509050ef" alt="image" />
+  <div class="personal-images">
+    <img src="{{ '/assets/img/history_travel.jpg' | relative_url }}" alt="History and Travel" />
+    <img src="{{ '/assets/img/hiking_stream.jpg' | relative_url }}" alt="Hiking in Nature" />
+    <img src="{{ '/assets/img/running_little_island.jpg' | relative_url }}" alt="Running in New York" />
+  </div>
 </div>
 
 

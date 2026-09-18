@@ -1,6 +1,8 @@
-title: "Margaux Delporte"
-author: "Margaux Delporte"
-description: "University of Rhode Island"
+title: "Tim Biesbrouck"
+author: "Tim Biesbrouck"
+description: "KU Leuven & UGent"
+url: "https://margauxdelporte.github.io"
+baseurl: "/TimBiesbrouck.github.io"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -23,11 +25,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "Personal.md", title: Personal}
   - {file: "CV.md", title: CV}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:mde4023@med.cornell.edu"}
-  - {title: Github, icon: github, url: "https://github.com/margauxdelporte"}
-  - {title: Subscribe, icon: rss, url: "https://www.researchgate.net/profile/Margaux-Delporte"}
-  - {title: Linkedin, url: "https://www.linkedin.com/in/margaux-delporte-28a360147/"}
-  - {title: ORCID, url: "https://orcid.org/0000-0001-6234-8860"}
+  - {title: Mail, icon: envelope, url: "mailto:tim.biesbrouck@uzleuven.be"}
+  - {title: ORCID, url: "https://orcid.org/0000-0001-5117-1027"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/

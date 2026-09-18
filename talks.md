@@ -13,50 +13,30 @@ title: "List of presentations"
 </script>
 ## Presentations at international conferences
 
- 
-### Joint Statistical Meetings 2024
-* _Location:_ Portland, Oregon
-* _Date:_ August 3-8, 2024
-* _Title:_ A Joint Normal-Ordinal (Probit) Model for Ordinal and Continuous Longitudinal Data
-* [Presentation](Presentation_JSM__ordinal_data.pdf)
-  
-### Eastern North American Region International Biometric Society 2023, Spring meeting
-* _Location:_ Nashville, Tennessee
-* _Date:_ March 19-22, 2023
-* _Title:_ A joint normal-binary (Probit) model for high-dimensional data.
-* [Presentation](ENAR.pdf)
-  
-### 31th International Biometric Conference
-* _Location:_ Riga, Latvia
-* _Date:_ July  10-15, 2022
-* _Title:_ A joint normal-binary (Probit) model
-* [Presentation](Delporte_presentation_IBC2022.pdf)
-   
-## Local talks
+### 22nd European Geriatric Medicine Society Congress (Upcoming 2026)
+* _Location:_ Lille, France
+* _Date:_ September 2026
+* _Title 1:_ Differences in Perceptions of Quality of Dying Scores during the Last Days of Life on Acute Geriatric Wards: A Prospective Observational Study in Relatives, Nurses and Doctors
+* _Title 2:_ Understanding Prescribing Patterns in the Last Days of Life on Acute Geriatric Wards: Morphine and Benzodiazepine Use and Dosage Evolution, a Prospective Observational Study
 
-### European Joint Programme Rare diseases
-* _Location:_ Paris, France
-* _Date:_ June 14, 2024
-* _Title:_ Key Findings from the Dravet Syndrome Registry
-* [Presentation](Paris_EJPRD.pdf.pdf)
-  
-### Leuven Statistics Days
-* Theme: Collaboration
-* _Location:_ Leuven, Belgium
-* _Date:_ November 23, 2023
-* _Title:_ A longitudinal perspective on perceived vulnerability to disease during the COVID-19-pandemic in Belgium
-* [Presentation](Lstat_day.pdf)
+### 21st European Geriatric Medicine Society Congress
+* _Location:_ Reykjavik, Iceland
+* _Date:_ 2025
+* _Title:_ Symptoms and Communication at the End of Life: Why do perceptions differ between relatives, nurses and doctors on the Acute geriatric ward?
 
-### Taiwan Studies Seminar 
-* Theme: Social Life and Governance in/after the Covid 19 Pandemic: A Comparison between Taiwan and the EU
-* _Location:_ Leuven, Belgium
-* _Date:_ May 3, 2023
-* _Title:_ A longitudinal perspective on perceived vulnerability to disease during the COVID-19-pandemic in Belgium
-* [Presentation](Taiwan.pdf)
-  
-### Research Day Interuniversity Institute for Biostatistics and statistical Bioinformatics
-* _Location:_ Leuven, Belgium
-* _Date:_ 21 October, 2021
-* _Title:_ A joint normal-binary(probit) model
-* [Presentation](RD_2021.pdf)
+### Summer School: Best Care for the Dying Person
+* _Location:_ Malaga, Spain
+* _Date:_ 2024
+* _Title:_ How do relatives experience palliative care on the acute geriatric ward? A telephone survey
+
+## National talks & poster presentations
+
+### Belgian Society for Gerontology and Geriatrics (BSGG) Wintermeetings
+* _Location:_ Ghent & Oostende, Belgium
+* _Date:_ 2024 - 2026
+* _Topics:_ Quality of dying scores, symptoms & end-of-life communication on acute geriatric wards, pharmacological symptom management.
+
+### European Association for Palliative Care (EAPC) World & Research Congresses
+* _Locations:_ Prague (2026), Barcelona (2024)
+* _Topics:_ Perceptions of quality of dying and pharmacological treatment of physical symptoms in older people during the last days of life.
   
