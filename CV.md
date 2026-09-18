@@ -14,14 +14,14 @@ title: "CV"
 
 <div class="pdf-container">
   <iframe
-    src="{{ '/CV2.pdf' | relative_url }}"
+    src="{{ '/Tim_Biesbrouck_CV.pdf' | relative_url }}"
     title="Curriculum vitae"
     loading="lazy">
   </iframe>
 </div>
 
 <p>
-  <a href="{{ '/CV2.pdf' | relative_url }}">Open CV as a PDF</a>
+  <a href="{{ '/Tim_Biesbrouck_CV.pdf' | relative_url }}">Open CV as a PDF</a>
 </p>
 
 <style>
