@@ -2,16 +2,6 @@
 layout: page
 title: ""
 ---
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-P52QC73R53"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-P52QC73R53');
-</script>
-
 <img src="{{ '/assets/img/tim_profile.jpg' | relative_url }}" alt="Tim Biesbrouck" style="border-radius: 50%; max-width: 250px; height: auto;" />
 
 ## Tim Biesbrouck
